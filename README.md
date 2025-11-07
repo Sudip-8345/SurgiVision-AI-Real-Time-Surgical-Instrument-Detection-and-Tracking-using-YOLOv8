@@ -89,7 +89,8 @@ python realtime_yolov8.py
 
 <details open>
 <summary>📊 Model Performance Analysis</summary>
-
+![Training Metrics](docs/results.png)
+    
 #### Confusion Matrix & Class Distribution
 ![Confusion Matrix](docs/confusion_matrix.png)
 
@@ -99,7 +100,6 @@ The confusion matrix shows strong diagonal performance, indicating high accuracy
 - Minimal confusion between similar tools like different types of scissors
 
 #### Training Metrics
-![Training Metrics]([docs/training_results.png](https://github.com/Sudip-8345/SurgiVision-AI-Real-Time-Surgical-Instrument-Detection-and-Tracking-using-YOLOv8/blob/68bce0cf3f0ad70a334b3791edf045bdcafd7421/docs/results.png))
 
 The training graphs demonstrate:
 - Steady decrease in box loss and classification loss
