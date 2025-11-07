@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![SurgiVision AI Banner](docs/banner.png)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![YOLOv8](https://img.shields.io/badge/Model-YOLOv8-green.svg)](https://github.com/ultralytics/yolov8)
